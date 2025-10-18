@@ -16,6 +16,8 @@ This project is a full-stack clone of the popular accommodation booking platform
 * **Version Control:** Git and GitHub
 * **Design Tools:** Figma for UI/UX design
 
+***
+
 ## 1. UI/UX Design Planning
 
 ### Design Goals
