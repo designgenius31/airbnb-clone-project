@@ -71,9 +71,6 @@ It also helps everyone on the team follow the same design style.
 | **Scrum Master** | Runs meetings and helps remove blockers |
 
 ## UI Component Patterns
-
-### Components You’ll Build
-
 #### Navbar
 - Has the logo, search bar, and user menu
 - Works on both desktop and mobile
